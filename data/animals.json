@@ -119,18 +119,14 @@
       "id": "11"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [],
+      "name": "Gus",
+      "species": "Turtle",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
       "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [],
-      "id": "13"
     }
   ]
 }
